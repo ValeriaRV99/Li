@@ -3,6 +3,9 @@
 This repository contains scripts to generate Local pseudopotentials (LPPs) using DFTpy for Lithium in metal (Li BCC) and oxide (Li2O). 
 The organization of the repository is the following:
 
+---
+## Repository layout
+```text
 ├── metal
 │   ├── KS
 │   │   ├── LDA
@@ -80,5 +83,5 @@ The organization of the repository is the following:
 │                   ├── O_Li2O_PGBRV_PBE_TF02vW.psp8
 │                   ├── pp-Li.ipynb
 │                   └── pp_Li-O.py
-
+```
 
